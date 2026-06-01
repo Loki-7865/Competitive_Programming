@@ -19,8 +19,7 @@ int main()
         if (n < 4 || n % 2 == 1)
             cout << -1 << '\n'; // Output -1 indicating no valid configuration
         else
-        {
-            // Using a different formula for ceil to avoid floating point operations
+        {// Using a different formula for ceil to avoid floating point operations
             // in C++20 (GCC 13-64) version
 
             // Calculate the minimum number of buses using 6-wheel buses
