@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Loki-7865/Competitive_Programming/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Loki-7865/Competitive_Programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0033-search-in-rotated-sorted-array) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Loki-7865/Competitive_Programming/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Loki-7865/Competitive_Programming/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
