@@ -54,10 +54,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Loki-7865/Competitive_Programming/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Loki-7865/Competitive_Programming/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Loki-7865/Competitive_Programming/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Loki-7865/Competitive_Programming/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -71,4 +73,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Loki-7865/Competitive_Programming/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Loki-7865/Competitive_Programming/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Loki-7865/Competitive_Programming/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
