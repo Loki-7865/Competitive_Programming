@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Loki-7865/Competitive_Programming/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Loki-7865/Competitive_Programming/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Loki-7865/Competitive_Programming/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Loki-7865/Competitive_Programming/tree/master/0875-koko-eating-bananas) |
@@ -28,6 +29,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Loki-7865/Competitive_Programming/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Loki-7865/Competitive_Programming/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Loki-7865/Competitive_Programming/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Loki-7865/Competitive_Programming/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Loki-7865/Competitive_Programming/tree/master/0509-fibonacci-number) |
 ## Recursion
